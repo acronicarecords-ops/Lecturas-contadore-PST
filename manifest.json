@@ -1,0 +1,31 @@
+{
+  "name": "Lecturas de Contadores — Puerto Sotogrande",
+  "short_name": "Contadores PST",
+  "description": "Lecturas de electricidad y agua por atraque para Puerto Sotogrande",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e2e2e2",
+  "theme_color": "#242254",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
